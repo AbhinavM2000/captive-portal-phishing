@@ -4,7 +4,7 @@
 
 
 <script>
-window.alert("Sign In with google to access hotspot");
+window.alert("Sign In with <an important website> to access hotspot");
 
 </script>
 
