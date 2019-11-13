@@ -6,4 +6,6 @@ I was able to successfully perform the attack on several older Android smartphon
 The low current draw and affordability of the NodeMCUv3 make it an easy choice for someone to exploit such vulnerabilities by deploying several of these rogue access points at public places.
 
 
-Disclaimer : The code provided in this repo is strictly for educational and demonstrational purposes only.
+###Disclaimer
+
+The code provided in this repo is strictly for educational and demonstrational purposes only.
