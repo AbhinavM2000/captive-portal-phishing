@@ -15,3 +15,6 @@ The low current draw and affordability of the NodeMCUv3/ESP8266 make it an easy 
 
 ### Disclaimer
 The code provided in this repo is strictly for educational and demonstrational purposes only.
+
+### Credits
+This is a modified version of the code based on the ESPortal project by Corey Harding www.legacysecuritygroup.com
