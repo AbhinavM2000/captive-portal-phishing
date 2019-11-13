@@ -8,9 +8,9 @@ The low current draw and affordability of the NodeMCUv3/ESP8266 make it an easy 
 
 ### Usage
 
- > Edit the HTML in the .h files as necessary, able to include GIFs, images etc.
- > Configure the .ino file, make sure HTML doesn't exceed memory limit.
- > Compile and upload the code to NodeMCUv3/ESP8266 using ArduinoIDE.
+ * Edit the HTML in the .h files as necessary, able to include GIFs, images etc.
+ * Configure the .ino file, make sure HTML doesn't exceed memory limit.
+ * Compile and upload the code to NodeMCUv3/ESP8266 using ArduinoIDE.
 
 
 ### Disclaimer
