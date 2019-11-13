@@ -7,5 +7,4 @@ The low current draw and affordability of the NodeMCUv3 make it an easy choice f
 
 
 ### Disclaimer
-
 The code provided in this repo is strictly for educational and demonstrational purposes only.
