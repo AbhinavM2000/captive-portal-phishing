@@ -1,4 +1,4 @@
-Markup :  ### Description ###
+## Description
 
 
 Smartphones prompt the user with sign-in notifications in the vicinity of public WiFi networks. Once the user clicks on the notification, Android automatically redirects the user to the http page served by the router to login to the network. We use this specific feature of the OS to launch a phishing attack. A NodeMCUv3 is used in place of the router which hosts the phishing pages.
